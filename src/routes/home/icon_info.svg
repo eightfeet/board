@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_info</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登陆手机--获取验证码1" transform="translate(-294.000000, -319.000000)">
+            <g id="Group-5" transform="translate(45.000000, 309.000000)">
+                <g id="ic_info" transform="translate(250.000000, 11.000000)">
+                    <circle id="Oval" stroke="#D1AF66" stroke-width="1.5" cx="11.5" cy="11.5" r="11.5"></circle>
+                    <path d="M11.489,3.984 C11.973,3.984 12.391,4.138 12.721,4.446 C13.029,4.754 13.205,5.15 13.205,5.634 C13.205,6.118 13.029,6.536 12.699,6.844 C12.369,7.152 11.973,7.306 11.489,7.306 C11.005,7.306 10.609,7.152 10.279,6.844 C9.949,6.514 9.795,6.118 9.795,5.634 C9.795,5.15 9.949,4.754 10.279,4.446 C10.609,4.138 11.005,3.984 11.489,3.984 Z M11.489,8.626 L11.489,8.626 C12.1815651,8.626 12.743,9.18743492 12.743,9.88 L12.743,17.746 C12.743,18.4385651 12.1815651,19 11.489,19 L11.489,19 C10.7964349,19 10.235,18.4385651 10.235,17.746 L10.235,9.88 C10.235,9.18743492 10.7964349,8.626 11.489,8.626 Z" id="i" fill="#D2B168"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

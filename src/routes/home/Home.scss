@@ -1,0 +1,103 @@
+.root {
+  background: linear-gradient(200deg, #ead89f 0%, #d1af66 100%);
+  flex: auto;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.main {
+  flex: auto;
+}
+
+.logo {
+  height: rem(68);
+  background-image: url(./logo.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: rem(202) auto;
+}
+
+.margin {
+  margin-left: rem(50);
+  margin-right: rem(50);
+}
+
+.info {
+  height: rem(432);
+  background: url(./info.png) no-repeat;
+  background-size: contain;
+}
+
+.block {
+  background: linear-gradient(225deg, #f9f7f5 0%, #e3ddd6 100%);
+  border-radius: rem(8);
+  padding: rem(40);
+}
+
+#formbox,
+.form {
+  font-style: normal;
+}
+
+.banner {
+  height: rem(290);
+  background: url(http://cdn-yyj.4000916916.com/pic/scan20200426a.gif);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#messagebutton {
+  font-style: normal;
+}
+
+:global {
+  .by-health-points-phone-item,
+  .by-health-points-antifakecode-item {
+    height: rem(90);
+    background: #ffffff;
+    border-radius: rem(8);
+    margin-bottom: rem(30);
+  }
+
+  .by-health-points-submit-item .by-health-points-button-submit {
+    height: rem(120);
+    display: block;
+    width: 100%;
+    background: #d1af66;
+    border-radius: rem(8);
+    margin-bottom: rem(30);
+  }
+
+  .by-health-points-message_footer .by-health-points-message_button {
+    background: #d1af66;
+    border-radius: rem(8);
+  }
+
+  .by-health-points-submit-item {
+    padding-top: rem(5);
+  }
+
+  .by-health-points-phone-icon {
+    background: url(./icon_info.svg);
+    background-size: rem(46) rem(46);
+    background-repeat: no-repeat;
+  }
+
+  .by-health-points-antifakecode-item button {
+    background: #d1af66;
+    font-size: 0.7rem;
+  }
+
+  .by-health-points-wrap .by-health-points-button-scan::before {
+    background-image: url(./icon_scan.svg);
+    width: 0.8rem;
+    height: 0.8rem;
+    margin-top: -0.35rem;
+    margin-left: -1.6em;
+  }
+
+  .by-health-points-message_icon_absolutely {
+    // color: red;
+  }
+}
